@@ -10,7 +10,14 @@ Studio Lead reads the booking system and turns the data into the week's actions 
 - **Drop-off detection.** Members whose visit pattern breaks are flagged before they cancel.
 - **Churn and cancellation alerts.** An agent informs the owner and the coach on duty, with the suggested next step. A person decides before anything reaches a member.
 - **Behavioral nudging.** Personal outreach at the moments that matter, after a first class, after a missed week, before a membership renews.
-- **Analytics.** Utilization by class and coach, revenue by channel, the client journey from trial to active to community, and the financial view the owner needs for planning.
+- **Trainer analytics.** Utilization, retention and revenue per coach and class, so the owner sees which classes fill, which coaches keep members, and where instructor hours are wasted.
+- **Analytics.** Revenue by channel, the client journey from trial to active to community, and the financial view the owner needs for planning.
+
+## Screenshots
+
+The daily inbox. What the agent needs a human decision on, first cancellations, then new paying first-time customers in three stages. All names are fictional, the layout and the numbers are real.
+
+![SL Inbox](screenshots/sl-inbox.png)
 
 ## How it is built
 
@@ -23,3 +30,4 @@ I tried. The market pays too little per studio to carry a team that keeps a tool
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nikitaheumann/)
+
